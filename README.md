@@ -3,7 +3,7 @@
 Welcome to my GitHub profile. I'm passionate about data privacy, risk assessment, and collaborative coding projects. If you share similar interests or want to explore exciting coding endeavors together, you're in the right place!
 
 ## 👀 What I'm Into
-- Data privacy and security
+- Data mining & privacy preserving
 - Risk analysis and assessment
 - Collaborative coding projects
 
