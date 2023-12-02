@@ -19,12 +19,13 @@ I'm actively seeking collaborations on:
 If you have ideas or projects you'd like to collaborate on, feel free to reach out! Let's build something awesome together.
 
 ## 📫 How to Reach Me
-You can connect with me via linkedin [inkedin.com/in/ohudsaud8/]. I'm open to discussions, ideas, and collaboration proposals.
+You can connect with me via linkedin [Linkedin.com/in/ohudsaud8/]. I'm open to discussions, ideas, and collaboration proposals.
 
 Looking forward to coding adventures together! 🚀
 
 <p><a href="https://www.buymeacoffee.com/OhudSaud"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OhudSaud" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohudsaud&show_icons=true&locale=en&layout=compact" alt="ohudsaud" /></p>
 
 <!---
 OhudSaud/OhudSaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
