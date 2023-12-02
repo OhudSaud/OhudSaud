@@ -23,6 +23,8 @@ You can connect with me via linkedin [inkedin.com/in/ohudsaud8/]. I'm open to di
 
 Looking forward to coding adventures together! 🚀
 
+<p><a href="https://www.buymeacoffee.com/OhudSaud"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OhudSaud" /></a></p><br><br>
+
 
 <!---
 OhudSaud/OhudSaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
